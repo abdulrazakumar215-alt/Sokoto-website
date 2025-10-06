@@ -1,2 +1,5 @@
 # Sokoto-website
-Website na sokoto 
+sokoto-website/
+├── index.html
+├── style.css
+└── script.js
